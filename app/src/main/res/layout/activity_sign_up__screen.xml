@@ -173,6 +173,7 @@
         android:layout_marginRight="20dp">
 
         <Button
+            android:id="@+id/loging_sig_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@color/transparent"
