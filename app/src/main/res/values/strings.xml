@@ -6,4 +6,6 @@
     <string name="user_example_com">user@example.com</string>
     <string name="password">Password</string>
     <string name="solution_by_edusoft">Solution By EduSoft</string>
+    <string name="login_now">Login Now</string>
+    <string name="your_name">Your Name</string>
 </resources>
