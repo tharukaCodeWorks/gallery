@@ -1,3 +1,7 @@
+/*
+    This class work as login screen of the app and also splash screen.
+ */
+
 package lk.teachmeit.gallery;
 
 import android.os.Handler;
