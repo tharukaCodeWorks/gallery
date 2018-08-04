@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="border_radius">10dp</string>
+    <string name="signup_now">Signup Now</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="user_example_com">user@example.com</string>
+    <string name="password">Password</string>
+    <string name="solution_by_edusoft">Solution By EduSoft</string>
+</resources>
